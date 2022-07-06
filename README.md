@@ -1,1 +1,1 @@
-### Backend dev at Namshi Marketplace
+### Dev at Namshi Marketplace
